@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**adams549659584/adams549659584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 当前就职于广东康爱多数字健康科技有限公司
+- 👯 当前正寻求web前端开发相关工作
+- 💬 13760614423@163.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<div>
+  <a href="https://github.com/adams549659584/adams549659584"> 
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=adams549659584&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/adams549659584/adams549659584"> 
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adams549659584&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
+</div>
