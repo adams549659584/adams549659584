@@ -1,10 +1,10 @@
-### 💔 失业求职中，有广州前端开发/后端.NET开发相关职位的推荐下，万分感谢！ 
+### 接前端、后端.NET、Go、Python 等各种小私活，有需要的联系 
 1. 8年实际开发经验，熟练掌握 web 前端技术，包括 HTML(5)、CSS(3)、JS(ES6+) 等，能够编写高效、优雅、兼容的代码。
 2. 熟练使用 vue 框架及其相关库（vue-router、vuex、vuex-module-decorators、vuex-persistedstate、axios、vant ui、element-ui 、tailwindcss、echarts、jest 等）快速构建项目。
 3. 熟练使用 mpvue、uni-app 等框架。
 4. 熟悉 Gulp、Webpack、Vite、Docker、GitHub Action 等自动化构建工具。
 6. 熟悉 C# 语言，熟悉 .NET Framework 平台，有多年的前后端开发经验。
-7. 💰 15-18k
+7. 熟悉 Go、Python 等。
 8. 📧 adams549659584@gmail.com
 9. 📱 adams549659584
 <br />
